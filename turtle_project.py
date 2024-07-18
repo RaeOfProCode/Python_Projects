@@ -288,7 +288,6 @@ def draw_tree(length: int, object: Turtle, x: float, y: float) -> None:
         object.backward(length)
 
 
-# Use the __name__ is "__main__" idiom shown in class:
 
 if __name__ == "__main__":
     main()
